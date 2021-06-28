@@ -1,0 +1,7 @@
+name: Mine
+version: ${project.version}
+main: priv.clemens.logcraft.mine.Mine
+api-version: 1.16
+authors: [ Clemens_Mine ]
+description: 挖掘榜
+website: https://www.logcraft.top
